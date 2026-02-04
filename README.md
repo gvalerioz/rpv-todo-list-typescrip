@@ -9,8 +9,8 @@ Este projeto é educacional e visa inserir os alnos do Curso Técnico em Desenvo
 ### Issues Criadas
 [Configuração Projeto React - To Do List ](https://github.com/gvalerioz/rpv-todo-list-typescrip/issues/1) - Finalizado ✅
 
-[Layout Inicial](https://github.com/gvalerioz/rpv-todo-list-typescrip/issues/2) - A desenvolver ⚠️
+[Layout Inicial](https://github.com/gvalerioz/rpv-todo-list-typescrip/issues/2) - Finalizado ✅
 
-[Validações de entrada](https://github.com/gvalerioz/rpv-todo-list-typescrip/issues/3) - A desenvolver ⚠️
+[Validações de entrada](https://github.com/gvalerioz/rpv-todo-list-typescrip/issues/3) - Finalizado ✅
 
 [Informações de cadastro](https://github.com/gvalerioz/rpv-todo-list-typescrip/issues/4) - A desenvolver ⚠️
